@@ -1,6 +1,8 @@
 # Explain Silhouette Score
 The Silhouette Score is a metric used to validate the consistency and quality of clusters resulting from algorithms like K-means, helping to determine the optimal number of clusters (K). It measures how similar an object is to its own cluster compared to other clusters.
 
+<img width="1690" height="918" alt="image" src="https://github.com/user-attachments/assets/cb321dde-3ab6-4ac8-829f-60aa76cebc3f" />
+
 ## 📐 Intuition and Calculation
 The Silhouette Score for a single data point i is calculated using two values:
 
