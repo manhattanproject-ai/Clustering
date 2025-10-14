@@ -18,6 +18,9 @@ $\text{Silhouette Score} = \frac{(b(i) - a(i)}{\max(a(i), b(i))}$
 The Overall Silhouette Score for a clustering result (for a given K) is the average of s(i) across all data points.
 
 ## 🔢 Interpretation and Example
+
+<img width="1766" height="953" alt="image" src="https://github.com/user-attachments/assets/5bf67bec-807f-4be9-b30a-3a74733fca63" />
+
 The Silhouette Score ranges from -1 to +1:
 
 |Score Range|	Interpretation	|Quality|
