@@ -1,7 +1,8 @@
 # Hierarchical Clustering
 
-Hierarchical Clustering is a type of unsupervised machine learning algorithm that builds a hierarchy of clusters, represented as a tree structure called a dendrogram. Unlike K-means, it does not require a pre-specified number
-of clusters (K); instead, the number of clusters is determined by cutting the tree at a certain height.
+Hierarchical Clustering is a type of unsupervised machine learning algorithm that builds a hierarchy of clusters, represented as a tree structure called a dendrogram. Unlike K-means, it does not require a pre-specified number of clusters (K); instead, the number of clusters is determined by cutting the tree at a certain height.
+
+<img width="979" height="531" alt="image" src="https://github.com/user-attachments/assets/68cde256-e405-4155-a459-ccdf9c87fe27" />
 
 ## The Two Main Approaches
 Hierarchical clustering methods are broadly categorized into two types, based on whether they follow a "bottom-up" or "top-down" approach:
