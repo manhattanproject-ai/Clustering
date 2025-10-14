@@ -19,7 +19,7 @@ The Overall Silhouette Score for a clustering result (for a given K) is the aver
 
 ## 🔢 Interpretation and Example
 
-<img width="1766" height="953" alt="image" src="https://github.com/user-attachments/assets/5bf67bec-807f-4be9-b30a-3a74733fca63" />
+<img width="1712" height="698" alt="image" src="https://github.com/user-attachments/assets/e0b896dd-d6b6-4bc3-9af8-bb1636a330fb" />
 
 The Silhouette Score ranges from -1 to +1:
 
